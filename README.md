@@ -11,6 +11,6 @@ Source code and slide of JavaScript Conference Armenia 2021
 ## Resources
 
 > - **Multithreaded JavaScript** https://www.oreilly.com/library/view/multithreaded-javascript/9781098104429/
-> > - **Node.js Worker Threads | Doc** https://nodejs.org/api/worker_threads.html
+> - **Node.js Worker Threads | Doc** https://nodejs.org/api/worker_threads.html
 
 **Slide:** https://slides.com/nairihar/parallel-universes
